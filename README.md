@@ -1,1 +1,1 @@
-# demo-class
+# demo-class.
